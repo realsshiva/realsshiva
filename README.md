@@ -61,8 +61,8 @@ quest_log:
 <!-- Replace these rows with your own anime -->
 | 📺 Anime | 📊 Progress | ⭐ Rating |
 |:--|:--:|:--:|
-| Your current anime | Ep 12/24 | 9/10 |
-| Another favorite | Completed | 10/10 |
+| Shield Hero | Ep 12/24 | 9/10 |
+| Tensei Shitara Suraimu Datta Ken | Completed | 10/10 |
 | Next on the list | Plan to watch | — |
 
 ---
@@ -71,4 +71,4 @@ quest_log:
 
 <!-- Replace the links below, or delete any badge you don't need -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"
+  <a href="https://linkedin.com/in/sean-erin-69b873305
