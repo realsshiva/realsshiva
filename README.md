@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4adede&height=200&section=header&text=こんにちは！I'm%20YOUR%20NAME&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=〜%20Developer%20by%20day,%20anime%20enjoyer%20by%20night%20〜&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4adede&height=200&section=header&text=こんにちは！I'm%20Sean&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=〜%20Developer%20by%20day,%20anime%20enjoyer%20by%20night%20〜&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Fellow+Adventurers&color=ff6ec7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shiva&label=Fellow+Adventurers&color=ff6ec7&style=for-the-badge" />
 </p>
 
 ---
@@ -21,13 +21,12 @@
 name:        Sean Erin Canonizado
 class:       Developer ⚔️
 level:       ██████████░░░░░ 67%
-guild:       University Of Northern Philippines
+guild:       University of Northern Philippines
 location:    Vigan City 🏯
 quest_log:
   - 🔭 Currently working on: Capstone
   - 🌱 Currently learning: Everything
   - 💬 Ask me about: Code, anime recs, and games
- 
 ```
 
 ---
@@ -44,7 +43,7 @@ quest_log:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shiva&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6ec7&icon_color=4adede" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shia&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6ec7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6ec7" />
 </p>
 
 <p align="center">
@@ -59,6 +58,7 @@ quest_log:
 
 ## 🍙 Currently Watching ‧ 視聴中
 
+<!-- Replace these rows with your own anime -->
 | 📺 Anime | 📊 Progress | ⭐ Rating |
 |:--|:--:|:--:|
 | Your current anime | Ep 12/24 | 9/10 |
@@ -69,6 +69,6 @@ quest_log:
 
 ## 💌 仲間になろう ‧ Join My Party
 
+<!-- Replace the links below, or delete any badge you don't need -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff6e
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"
