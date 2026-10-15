@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4adede&height=200&section=header&text=こんにちは！I'm%20Sean&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=〜%20Developer%20by%20day,%20anime%20enjoyer%20by%20night%20〜&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7873f5,100:4adede&height=200&section=header&text=こんにちは！I'm%20Shiva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=〜%20Developer%20by%20day,%20anime%20enjoyer%20by%20night%20〜&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -42,16 +42,16 @@ quest_log:
 ## 📜 冒険の記録 ‧ Adventure Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shiva&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6ec7&icon_color=4adede" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6ec7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=realsshiva&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6ec7&icon_color=4adede" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsshiva&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6ec7" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiva&theme=tokyonight&hide_border=true&ring=ff6ec7&fire=ff6ec7&currStreakLabel=4adede" />
+  <img src="https://streak-stats.demolab.com?user=realsshiva&theme=tokyonight&hide_border=true&ring=ff6ec7&fire=ff6ec7&currStreakLabel=4adede" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiva&theme=tokyo-night&hide_border=true&color=4adede&line=ff6ec7&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realsshiva&theme=tokyo-night&hide_border=true&color=4adede&line=ff6ec7&point=ffffff" width="100%" />
 </p>
 
 ---
